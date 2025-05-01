@@ -7,14 +7,13 @@ Un jeu de **Morpion** (ou Tic-Tac-Toe) en réseau, permettant à deux joueurs de
 - Jeu en temps réel pour deux joueurs.
 - Serveur TCP gérant les connexions et la synchronisation du jeu.
 - Interface en ligne de commande avec affichage de la grille après chaque coup.
-- Détection de victoire ou de match nul.
+- Détection de victoire ou de match nul.(A venir ...)
 
 ## 🚀 Prérequis
 
 Avant de commencer, assurez-vous que vous avez installé les dépendances suivantes :
 
-- **Python 3** ou supérieur
-- **Socket** (inclus par défaut dans Python)
+- **Python 3** 
 
 ## 🧑‍💻 Installation
 
