@@ -40,6 +40,7 @@ Avant de commencer, assurez-vous que vous avez installé les dépendances suivan
 5. Suivez les instructions dans le terminal pour jouer au jeu !
 
 ## 🎮 Comment jouer
+0. Les joueurs entre l'adresse locale du serveur affichée en console
 
 1. Le premier joueur (X) démarre la partie en se connectant au serveur.
 2. Le deuxième joueur (O) rejoint en entrant l'adresse IP du serveur.
