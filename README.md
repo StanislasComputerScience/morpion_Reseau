@@ -58,5 +58,5 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## 📞 Contact
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue sur ce dépôt ou à me contacter à [remilabonne@yahoo].
+Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue sur ce dépôt ou à me contacter à [remilabonne@yahoo.fr].
 
